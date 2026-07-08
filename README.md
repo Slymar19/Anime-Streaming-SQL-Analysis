@@ -55,7 +55,7 @@ Compared anime series and movies based on:
 - Average streams
 - Average user ratings
 
-![Anime Format Performance](Images/format_performance.png) 
+![Anime Format Performance](screenshots/anime_format_performance.png) 
 
 ### 2. Studio Performance
 
@@ -65,14 +65,14 @@ Analysed:
 - Average ratings
 - Total streams
 
-![Studio Performance](Images/studio_analysis.png) 
+![Studio Performance](screenshots/Studio_performance.png) 
 
 ### 3. Top Performing Titles
 
 Identified titles with the highest streaming numbers.
 
 
-![Top Titles](Images/top_titles.png)
+![Top Titles](screenshots/Top_anime_titles.png)
 
 
 ### 4. Genre Combination Analysis
@@ -86,7 +86,7 @@ Top-performing combinations:
 3. Shonen, Adventure
 
 
-![Genre Analysis](Images/genre_analysis.png)
+![Genre Analysis](screenshots/Top_performing_genres.png)
 
 
 ## SQL Files
